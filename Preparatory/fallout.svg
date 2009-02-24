@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   x="0.0000000"
+   y="0.0000000"
+   width="811.45398"
+   height="296.86499"
+   viewBox="0 0 811.454 296.865"
+   id="svg655"
+   xml:space="preserve">
+  <defs
+     id="defs683" />
+  <g
+     style="font-size:12.000000;"
+     id="Layer_1">
+    <path
+       d="M 0.49900000,255.64500 C 0.49900000,266.39400 34.419000,296.36600 170.10400,296.36600 C 305.78900,296.36600 434.20600,280.37500 434.20600,255.66000 L 434.20600,255.62500 C 434.20600,230.91000 305.79000,214.91900 170.10400,214.91900 C 34.418000,214.91900 0.49900000,244.89000 0.49900000,255.63900 L 0.49900000,255.64500 z "
+       style="fill:#ffffff;stroke:#000000;"
+       id="path661" />
+    <path
+       d="M 258.12200,254.77800 C 258.12200,229.57900 142.30400,225.70200 104.02200,225.70200 C 38.118000,225.70200 1.7700000,243.64300 1.7700000,255.75900 C 1.7700000,267.87500 38.111000,285.81600 104.01500,285.81600 C 142.29700,285.81600 258.11500,281.93900 258.11500,256.74000 L 258.12200,254.77800 z "
+       style="fill:#ffffff;stroke:#000000;"
+       id="path663" />
+    <path
+       d="M 252.20800,22.722000 C 29.224000,22.722000 3.4580000,39.512000 3.4580000,60.222000 C 3.4580000,80.932000 29.224000,97.722000 252.20800,97.722000 C 475.19300,97.722000 810.95800,80.932000 810.95800,60.222000 C 810.95800,39.511000 475.19300,22.722000 252.20800,22.722000 z "
+       style="fill:none;stroke:#000000;"
+       id="path665" />
+    <path
+       d="M 534.73300,60.722000 C 534.73300,85.722000 316.95400,89.472000 172.32400,89.472000 C 27.694000,89.472000 10.458000,69.972000 10.983000,60.722000 C 11.522000,51.223000 27.694000,31.972000 172.32400,31.972000 C 316.95400,31.972000 534.73300,38.222000 534.73300,60.722000 z "
+       style="fill:none;stroke:#000000;"
+       id="path667" />
+    <path
+       d="M 118.72400,39.472000 C 72.458000,39.472000 18.708000,49.486000 18.708000,61.222000 C 18.708000,72.958000 72.458000,81.972000 118.72400,81.972000 C 205.01900,81.972000 334.95800,72.458000 334.95800,60.722000 C 334.95800,48.986000 205.01900,39.472000 118.72400,39.472000 z "
+       style="fill:none;stroke:#000000;"
+       id="path669" />
+    <path
+       d="M 166.08700,255.49000 C 166.08700,244.82900 127.80400,231.73500 76.923000,231.73500 C 26.041000,231.73500 2.7800000,248.35300 2.7800000,255.49000 C 2.7800000,263.71100 26.040000,279.24500 76.923000,279.24500 C 127.80400,279.24500 166.08700,266.15100 166.08700,255.49000 z "
+       style="fill:#ffffff;stroke:#000000;"
+       id="path671" />
+  </g>
+<metadata>
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<dc:title>fallout</dc:title>
+<dc:date>2004</dc:date>
+<dc:description>graphic art abstract colour nuclear svg eps pdf</dc:description>
+<dc:creator><Agent>
+<dc:title>Rhea Myers</dc:title>
+</Agent></dc:creator>
+<dc:rights><Agent>
+<dc:title>Rhea Myers</dc:title>
+</Agent></dc:rights>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:source rdf:resource="http://www.Rhea Myers.org/art/1968"/>
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+<permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+<permits rdf:resource="http://web.resource.org/cc/Distribution" />
+<requires rdf:resource="http://web.resource.org/cc/Notice" />
+<requires rdf:resource="http://web.resource.org/cc/Attribution" />
+<permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+<requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+</License>
+</rdf:RDF>
+</metadata>
+</svg>
+
+

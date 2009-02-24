@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   x="0.0000000"
+   y="0.0000000"
+   width="553.75000"
+   height="190.00000"
+   id="svg862">
+  <defs
+     id="defs864" />
+  <g
+     transform="translate(0.817102,-84.92069)"
+     id="g857">
+    <path
+       d="M 552.00000,274.06300 L 0.0000000,274.06300 L 0.0000000,86.299000 L 552.00000,86.299000 L 552.00000,274.06300 z "
+       style="fill:#ff0002;"
+       id="path833" />
+    <path
+       d="M 14.899000,245.20200 C 18.246000,256.87200 64.401000,278.85100 211.71000,236.61200 C 359.01900,194.37200 493.45700,137.03300 485.76200,110.20100 L 485.75100,110.16300 C 478.05700,83.331000 333.66300,105.94700 186.35400,148.18700 C 39.046000,190.42700 11.551000,233.52600 14.897000,245.19500 L 14.899000,245.20200 z "
+       style="fill:#fcfeff;"
+       id="path835" />
+    <path
+       d="M 294.32200,164.06200 C 286.47600,136.70400 159.53000,168.55000 117.96900,180.46700 C 46.420000,200.98400 12.543000,231.77700 16.315000,244.93100 C 20.087000,258.08400 65.126000,266.24800 136.67500,245.73200 C 178.23600,233.81600 302.76800,193.55200 294.92300,166.19300 L 294.32200,164.06200 z "
+       style="fill:#ff0000;"
+       id="path837" />
+    <path
+       d="M 194.62400,193.48500 C 191.30500,181.91100 145.66600,179.61400 90.427000,195.45400 C 35.187000,211.29300 15.107000,236.57700 17.328000,244.32300 C 19.888000,253.24900 49.976000,262.87300 105.21700,247.03200 C 160.45700,231.19400 197.94300,205.06000 194.62400,193.48500 z "
+       style="fill:#ffffff;"
+       id="path839" />
+  </g>
+<metadata>
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<dc:title>nyc</dc:title>
+<dc:date>2004</dc:date>
+<dc:description>graphic art abstract colour nuclear svg eps pdf</dc:description>
+<dc:creator><Agent>
+<dc:title>Rhea Myers</dc:title>
+</Agent></dc:creator>
+<dc:rights><Agent>
+<dc:title>Rhea Myers</dc:title>
+</Agent></dc:rights>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:source rdf:resource="http://www.Rhea Myers.org/art/1968"/>
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+<permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+<permits rdf:resource="http://web.resource.org/cc/Distribution" />
+<requires rdf:resource="http://web.resource.org/cc/Notice" />
+<requires rdf:resource="http://web.resource.org/cc/Attribution" />
+<permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+<requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+</License>
+</rdf:RDF>
+</metadata>
+</svg>
+
+
